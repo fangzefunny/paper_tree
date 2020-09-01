@@ -1,0 +1,10 @@
+digraph G {
+	node [shape=box]
+	0 [label="2011 Daw Model-based influences on humans choice and striatal prediction errors"]
+	1 [label="2016 Kool When does model-based control pay off"]
+	0 -> 1 [label="improve experiment"]
+	2 [label="2017 Wang Learning to reinforcement learn"]
+	0 -> 2 [label="add lstm"]
+	3 [label="2019 Ritter Meta-reinforcement learning with episodic recall"]
+	2 -> 3 [label="add episodic control"]
+}
