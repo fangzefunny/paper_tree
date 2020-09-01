@@ -1,0 +1,4 @@
+*.ipynb_checkpoints/
+*.vscode/
+__pychae__/
+my_trees/
